@@ -1,0 +1,164 @@
+.move_table{
+	margin-left: 0px;
+}
+
+body{
+background-color: white;
+link: white;
+}
+header{
+height: 250px;
+background-color: black;
+color: white;
+font-family: Times;
+font-size: 20px;
+text-shadow: 5px 5px 5px ble;
+margin-top: px;
+position: sticky;
+position: -webkit-sticky;
+top:0px;
+opacity:0.7;
+
+}
+h1{
+margin-left: 70px;
+
+}
+h2{
+text-align: right;
+margin-right: 0px;
+}
+p{
+font-size: 24px;
+font-family: Times;
+margin-left: 70px;
+background-color: white;
+}
+
+
+span{
+float: right;
+margin-right: 0px;
+color: blue;
+font-size: 25px;
+margin-top: -30px;
+}
+.last{
+color: white;
+background-color: black;
+font-family: Times;
+font-size: 25px;
+margin-left: 70px;
+}
+.control{
+text-align: center;
+font-family: Times;
+color:blue;
+}
+.img1{
+align: left;
+width: 400px;
+}
+.copy{
+text-align: center;
+background-color: black;
+color: white;
+font-family: Times;
+font-size: 25px;
+}
+.happy{
+text-align: ;
+font-family: Times;
+}
+.message{
+text-align: left;
+font-family: Times;
+box-shadow: 5px 5px 5px black;
+}
+.sent{
+
+box-shadow: 5px 5px 5px 5px red;
+font-size: 30px;
+font-weight: bold;
+width: 80px;
+height: 40px;
+background-color: black;
+color: white;
+font-family: times;
+border-radius: 25px 25px 25px 25px;
+}
+.homu{
+float: right;
+margin-right: 200px;
+color: blue;
+}
+.text{
+color: black;
+font-family: ;
+margin-left: 0px;
+}
+.logo{
+margin-left:30px;
+}
+.bro{
+height:18px;
+}
+hr{
+height: 50px;
+background-color: red;
+}
+.p{
+font-size: 24px;
+font-family: Times;
+margin-left: 70px;
+background-color: white;
+}
+.dimond{
+border-radius: 50%;
+}
+li{
+	margin-left: 38%;
+	font-family: Times;
+}
+.me{
+height: 950px;
+width: 100%;
+background-color: black;
+font-family:Courier,Times,Verdana;
+color: white;
+text-align: center;
+font-size: 30px;
+}
+.blue{
+color: red;
+}
+#bar{
+	float: right;
+	margin-left: px;
+	height: px;
+	width: px;
+}
+a{
+	color: inherit;
+}
+.last_home{
+
+margin-left: 77px;
+color: white;
+background-color: black;
+font-family: Times;
+font-size: 25px;
+text-align: left;
+}
+
+.logo2{
+  text-align: center;
+
+}
+
+.contact{
+  text-align:center;
+ color: blue;
+ font-size:29px;
+
+}
