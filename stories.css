@@ -10,8 +10,8 @@ header{
 height: 250px;
 background-color: black;
 color: white;
-font-family: Times;
-font-size: 20px;
+font-family: serif;
+font-size: 28px;
 text-shadow: 5px 5px 5px ble;
 margin-top: px;
 position: sticky;
@@ -29,8 +29,8 @@ text-align: right;
 margin-right: 0px;
 }
 p{
-font-size: 24px;
-font-family: Times;
+font-size: 28px;
+font-family: serif;
 margin-left: 70px;
 background-color: white;
 }
@@ -40,19 +40,19 @@ span{
 float: right;
 margin-right: 0px;
 color: blue;
-font-size: 25px;
+font-size: 28px;
 margin-top: -30px;
 }
 .last{
 color: white;
 background-color: black;
-font-family: Times;
-font-size: 25px;
+font-family: serif;
+font-size: 28px;
 margin-left: 70px;
 }
 .control{
 text-align: center;
-font-family: Times;
+font-family: serif;
 color:blue;
 }
 .img1{
@@ -63,28 +63,28 @@ width: 400px;
 text-align: center;
 background-color: black;
 color: white;
-font-family: Times;
-font-size: 25px;
+font-family: serif;
+font-size: 28px;
 }
 .happy{
 text-align: ;
-font-family: Times;
+font-family: serif;
 }
 .message{
 text-align: left;
-font-family: Times;
+font-family: serif;
 box-shadow: 5px 5px 5px black;
 }
 .sent{
 
 box-shadow: 5px 5px 5px 5px red;
-font-size: 30px;
+font-size: 28px;
 font-weight: bold;
 width: 80px;
 height: 40px;
 background-color: black;
 color: white;
-font-family: times;
+font-family: serif;
 border-radius: 25px 25px 25px 25px;
 }
 .homu{
@@ -108,8 +108,8 @@ height: 50px;
 background-color: red;
 }
 .p{
-font-size: 24px;
-font-family: Times;
+font-size: 28px;
+font-family: serif;
 margin-left: 70px;
 background-color: white;
 }
@@ -118,16 +118,16 @@ border-radius: 50%;
 }
 li{
 	margin-left: 38%;
-	font-family: Times;
+	font-family: serif;
 }
 .me{
 height: 950px;
 width: 100%;
 background-color: black;
-font-family:Courier,Times,Verdana;
+font-family:Courier,serif;
 color: white;
 text-align: center;
-font-size: 30px;
+font-size: 28px;
 }
 .blue{
 color: red;
@@ -146,8 +146,8 @@ a{
 margin-left: 77px;
 color: white;
 background-color: black;
-font-family: Times;
-font-size: 25px;
+font-family: serif;
+font-size: 28px;
 text-align: left;
 }
 
@@ -159,6 +159,6 @@ text-align: left;
 .contact{
   text-align:center;
  color: blue;
- font-size:29px;
+ font-size:28px;
 
 }
